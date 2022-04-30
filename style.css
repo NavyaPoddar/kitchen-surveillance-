@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 40px;
+    width: 100%;
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.39);
+    margin-top: 0px;
+    padding: 20px;
+}
+
+#modelstatus_tag {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.39);
+    font-weight: bold;
+    width: fit-content;
+}
+
+.footer {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.39);
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+canvas {
+    border: 4px solid black;
+    border-radius: 5px;
+    margin-top: 110px;
+}
+
+#kitchen {
+    width: 150px;
+}
